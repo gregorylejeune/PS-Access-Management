@@ -1,0 +1,11 @@
+.aws/
+*.dpapi
+local.settings.json
+*.secret.json
+!examples/secret.example.json
+bin/
+obj/
+.vscode/
+*.suo
+*.user
+TestResults/
